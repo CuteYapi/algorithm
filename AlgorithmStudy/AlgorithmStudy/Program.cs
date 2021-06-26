@@ -10,6 +10,10 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
+            PalindromeNumber.Solution solution = new PalindromeNumber.Solution();
+            var quizAnswer = solution.IsPalindrome(10202);
+
+            Console.WriteLine(quizAnswer);
         }
     }
 }

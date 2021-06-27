@@ -10,10 +10,10 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            PalindromeNumber.Solution solution = new PalindromeNumber.Solution();
-            var quizAnswer = solution.IsPalindrome(10202);
+            ReverseInteger.Solution solution = new ReverseInteger.Solution();
+            var quizAnswer = solution.Reverse(-2147483648);
 
             Console.WriteLine(quizAnswer);
         }
     }
-}
+} 

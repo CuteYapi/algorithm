@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BestTimeToBuyAndSellStock.cs" />
     <Compile Include="MergeTwoSortedLists.cs" />
     <Compile Include="PalindromeNumber.cs" />
     <Compile Include="Program.cs" />

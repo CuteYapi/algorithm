@@ -6,8 +6,10 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            UglyNumber.Solution solution = new UglyNumber.Solution();
-            var quizAnswer = solution.IsUgly(0);
+            int[] arrayExample = { 7,1,5,3,6,4 };
+
+            BestTimeToBuyAndSellStock.Solution solution = new BestTimeToBuyAndSellStock.Solution();
+            var quizAnswer = solution.MaxProfit(arrayExample);
 
             Console.WriteLine(quizAnswer);
         }

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1267
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmStudy", "AlgorithmStudy\AlgorithmStudy.csproj", "{09D5C5D9-5C5C-4173-88CD-241C73701CC4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{36DD22A9-45DB-4736-B14D-DD4406732C2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

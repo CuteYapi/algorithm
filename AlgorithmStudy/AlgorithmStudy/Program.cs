@@ -1,17 +1,34 @@
 ﻿using System;
 
+//using ReverseLinkedList;
+
 namespace AlgorithmStudy
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[] arrayExample = { 7,1,5,3,6,4 };
+            //ListNode l1 = new ListNode(1);
+            //l1.next = new ListNode(2);
+            //l1.next.next = new ListNode(3);
+            //l1.next.next.next = new ListNode(4);
+            //l1.next.next.next.next = new ListNode(5);
 
-            BestTimeToBuyAndSellStock.Solution solution = new BestTimeToBuyAndSellStock.Solution();
-            var quizAnswer = solution.MaxProfit(arrayExample);
+            //ReverseLinkedList.Solution solution = new ReverseLinkedList.Solution();
+            //var quizAnswer = solution.ReverseList(l1);
+
+            //while(!(quizAnswer == null))
+            //{
+            //    Console.WriteLine(quizAnswer.val);
+            //    quizAnswer = quizAnswer.next;
+            //}
+
+            HappyNumber.Solution solution = new HappyNumber.Solution();
+            var quizAnswer = solution.IsHappy(19);
 
             Console.WriteLine(quizAnswer);
+
         }
     }
 }
+

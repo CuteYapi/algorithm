@@ -1,4 +1,12 @@
-﻿using System.Collections.Generic;
+﻿/*
+ * Algorithm Day 6
+ * HappyNumber
+ * https://leetcode.com/problems/happy-number/
+ * 
+ * 순위 외 :( + 잡초 심은 날
+ */
+
+using System.Collections.Generic;
 
 namespace HappyNumber
 {

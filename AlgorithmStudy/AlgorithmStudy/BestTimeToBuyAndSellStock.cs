@@ -1,5 +1,5 @@
 ﻿/*
- * Algorithm Day 1
+ * Algorithm Day 5
  * BestTimeToBuyAndSellStock
  * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
  * 

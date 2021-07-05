@@ -6,11 +6,15 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int[] arrayNumber = { 1,2,3,4,3,2,1 };
+            int[] arr1 = { 4,9,5 };
+            int[] arr2 = { 9,4,9,8,4 };
 
-            SingleNumber.Solution solution = new SingleNumber.Solution();
-            
-            Console.WriteLine(solution.SingleNumber(arrayNumber));
+            IntersectionOfTwoArrays.Solution solution = new IntersectionOfTwoArrays.Solution();
+
+            foreach (var item in solution.Intersection(arr1, arr2))
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }

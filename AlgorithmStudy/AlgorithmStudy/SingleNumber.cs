@@ -2,6 +2,7 @@
 //SingleNumber
 //https://leetcode.com/problems/single-number/
 
+//List 부분을 Hash 사용하면 빠르게 구현 가능
 //784 ms, faster than 5.13% of C#
 
 

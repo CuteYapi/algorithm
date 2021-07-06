@@ -6,15 +6,15 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int[] arr1 = { 4,9,5 };
-            int[] arr2 = { 9,4,9,8,4 };
+            string arr1 = "codeleet";
+            int[] arr2 = { 4,5,6,7,0,2,1,3 };
 
-            IntersectionOfTwoArrays.Solution solution = new IntersectionOfTwoArrays.Solution();
+            ShuffleString.Solution solution = new ShuffleString.Solution();
 
-            foreach (var item in solution.Intersection(arr1, arr2))
-            {
-                Console.WriteLine(item);
-            }
+
+            string answer = solution.RestoreString(arr1, arr2);
+            Console.WriteLine(answer);
+            
         }
     }
 }

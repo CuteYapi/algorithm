@@ -55,6 +55,7 @@
     <Compile Include="ShuffleString.cs" />
     <Compile Include="SingleNumber.cs" />
     <Compile Include="SortedStudy.cs" />
+    <Compile Include="TeemoAttacking.cs" />
     <Compile Include="TwoSum2_InputArrayIsSorted.cs" />
     <Compile Include="UglyNumber.cs" />
   </ItemGroup>

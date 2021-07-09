@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BestTimeToBuyAndSellStock.cs" />
+    <Compile Include="CountPrimes.cs" />
     <Compile Include="HappyNumber.cs" />
     <Compile Include="Implementstrstr.cs" />
     <Compile Include="IntersectionOfTwoArrays.cs" />

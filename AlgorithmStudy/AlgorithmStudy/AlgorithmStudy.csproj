@@ -54,6 +54,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseInteger.cs" />
+    <Compile Include="ReverseStringII.cs" />
     <Compile Include="ReverseVowels.cs" />
     <Compile Include="ShuffleString.cs" />
     <Compile Include="SingleNumber.cs" />

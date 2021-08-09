@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddStrings.cs" />
     <Compile Include="BestTimeToBuyAndSellStock.cs" />
     <Compile Include="CountPrimes.cs" />
     <Compile Include="FibonacciNumber.cs" />

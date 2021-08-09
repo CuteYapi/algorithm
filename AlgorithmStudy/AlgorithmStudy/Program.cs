@@ -6,11 +6,12 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int n = 400000;
+            string num1 = "9009";
+            string num2 = "9203";
 
-            CountPrimes.Solution solution = new CountPrimes.Solution();
-
-            Console.WriteLine(solution.CountPrimes(n));
+            AddStrings.Solution solution = new AddStrings.Solution();
+            
+            Console.WriteLine(solution.AddStrings(num1, num2).ToCharArray());
         }
     }
 }

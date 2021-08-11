@@ -23,5 +23,11 @@
     <ClInclude Include="HappyNumber.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="BestTimeToBuyAndSellStock.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleNumber.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

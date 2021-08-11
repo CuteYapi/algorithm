@@ -2,19 +2,17 @@
 //
 
 #include <iostream>
-#include "HappyNumber.h"
+#include "SingleNumber.h"
+
+#include <vector>
+
+using namespace std;
 
 int main()
 {
-	if (isHappy(19))
-	{
-		cout << "True";
-	}
+	vector<int> eg = { 2,3,1,2,3 };
 
-	else
-	{
-		cout << "False";
-	}
+	cout << singleNumber(eg) << endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴

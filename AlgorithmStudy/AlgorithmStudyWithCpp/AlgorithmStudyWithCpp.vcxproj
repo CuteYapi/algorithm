@@ -154,7 +154,9 @@
     <ClCompile Include="AlgorithmStudyWithCpp.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BestTimeToBuyAndSellStock.h" />
     <ClInclude Include="HappyNumber.h" />
+    <ClInclude Include="SingleNumber.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

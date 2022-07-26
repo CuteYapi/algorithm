@@ -6,12 +6,11 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            //    string num1 = "9009";
-            //    string num2 = "9203";
+            string question = "one4seveneight";
 
-            //    AddStrings.Solution solution = new AddStrings.Solution();
+            NumberCharString.Solution solution = new NumberCharString.Solution();
 
-            //    Console.WriteLine(solution.AddStrings(num1, num2).ToCharArray());
+            Console.WriteLine(solution.solution(question));
         }
     }
 }

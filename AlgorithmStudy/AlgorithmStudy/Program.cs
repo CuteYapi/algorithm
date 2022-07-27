@@ -6,11 +6,12 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            string question = "one4seveneight";
+            int[] absolutes = {4,7,12};
+            bool[] signs = {false, false, true};
 
-            NumberCharString.Solution solution = new NumberCharString.Solution();
+            PlusMinus.Solution solution = new PlusMinus.Solution();
 
-            Console.WriteLine(solution.solution(question));
+            Console.WriteLine(solution.solution(absolutes, signs));
         }
     }
 }

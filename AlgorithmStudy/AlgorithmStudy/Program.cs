@@ -6,12 +6,13 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int[] absolutes = {4,7,12};
-            bool[] signs = {false, false, true};
+            string[] id_list = { "muzi", "frodo", "apeach", "neo" };
+            string[] report = { "muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi" };
+            int k = 2;
 
-            PlusMinus.Solution solution = new PlusMinus.Solution();
+            ReportResult.Solution solution = new ReportResult.Solution();
 
-            Console.WriteLine(solution.solution(absolutes, signs));
+            Console.WriteLine(solution.solution(id_list, report, k));
         }
     }
 }

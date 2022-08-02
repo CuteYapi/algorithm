@@ -46,9 +46,11 @@
   <ItemGroup>
     <Compile Include="AddStrings.cs" />
     <Compile Include="BestTimeToBuyAndSellStock.cs" />
+    <Compile Include="DotProduct.cs" />
     <Compile Include="EmptyNumberSum.cs" />
     <Compile Include="Grading.cs" />
     <Compile Include="HighLowestLotto.cs" />
+    <Compile Include="K_thNumber.cs" />
     <Compile Include="MakePrimeNumber.cs" />
     <Compile Include="Number1.cs" />
     <Compile Include="Number2.cs" />

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace AlgorithmStudy
 {
@@ -6,13 +7,11 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            string[] id_list = { "muzi", "frodo", "apeach", "neo" };
-            string[] report = { "muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi" };
-            int k = 2;
+            int[] problem = { 1,2,7,4,6,998,999, 1000 };
 
-            ReportResult.Solution solution = new ReportResult.Solution();
+            MakePrimeNumber.Solution solution = new MakePrimeNumber.Solution();
 
-            Console.WriteLine(solution.solution(id_list, report, k));
+            Console.WriteLine(solution.solution(problem));
         }
     }
 }

@@ -49,6 +49,9 @@
     <Compile Include="EmptyNumberSum.cs" />
     <Compile Include="Grading.cs" />
     <Compile Include="HighLowestLotto.cs" />
+    <Compile Include="MakePrimeNumber.cs" />
+    <Compile Include="Number1.cs" />
+    <Compile Include="Number2.cs" />
     <Compile Include="NumberCharString.cs" />
     <Compile Include="CountPrimes.cs" />
     <Compile Include="FibonacciNumber.cs" />

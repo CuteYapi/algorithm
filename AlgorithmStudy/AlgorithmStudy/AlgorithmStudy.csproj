@@ -52,6 +52,7 @@
     <Compile Include="HighLowestLotto.cs" />
     <Compile Include="K_thNumber.cs" />
     <Compile Include="MakePrimeNumber.cs" />
+    <Compile Include="MeasureCountAdd.cs" />
     <Compile Include="Number1.cs" />
     <Compile Include="Number2.cs" />
     <Compile Include="NumberCharString.cs" />
@@ -74,6 +75,7 @@
     <Compile Include="SingleNumber.cs" />
     <Compile Include="SortedStudy.cs" />
     <Compile Include="TeemoAttacking.cs" />
+    <Compile Include="Ternary.cs" />
     <Compile Include="TwoSum.cs" />
     <Compile Include="TwoSum2_InputArrayIsSorted.cs" />
     <Compile Include="UglyNumber.cs" />

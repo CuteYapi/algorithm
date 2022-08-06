@@ -7,11 +7,11 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int n = 125;
+            string s = "abcde";
 
-            Ternary.Solution solution = new Ternary.Solution();
+            ReturnMiddleChar.Solution solution = new ReturnMiddleChar.Solution();
     
-            Console.WriteLine(solution.solution(n));
+            Console.WriteLine(solution.solution(s));
         }
     }
 }

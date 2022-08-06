@@ -48,11 +48,13 @@
     <Compile Include="BestTimeToBuyAndSellStock.cs" />
     <Compile Include="DotProduct.cs" />
     <Compile Include="EmptyNumberSum.cs" />
+    <Compile Include="FindRemainOne.cs" />
     <Compile Include="Grading.cs" />
     <Compile Include="HighLowestLotto.cs" />
     <Compile Include="K_thNumber.cs" />
     <Compile Include="MakePrimeNumber.cs" />
     <Compile Include="MeasureCountAdd.cs" />
+    <Compile Include="MinimumRectangle.cs" />
     <Compile Include="Number1.cs" />
     <Compile Include="Number2.cs" />
     <Compile Include="NumberCharString.cs" />
@@ -68,9 +70,11 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReportResult.cs" />
+    <Compile Include="ReturnMiddleChar.cs" />
     <Compile Include="ReverseInteger.cs" />
     <Compile Include="ReverseStringII.cs" />
     <Compile Include="ReverseVowels.cs" />
+    <Compile Include="ShortMoney.cs" />
     <Compile Include="ShuffleString.cs" />
     <Compile Include="SingleNumber.cs" />
     <Compile Include="SortedStudy.cs" />
@@ -78,7 +82,9 @@
     <Compile Include="Ternary.cs" />
     <Compile Include="TwoSum.cs" />
     <Compile Include="TwoSum2_InputArrayIsSorted.cs" />
+    <Compile Include="TwoSum3.cs" />
     <Compile Include="UglyNumber.cs" />
+    <Compile Include="Y2016.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -7,11 +7,12 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            string s = "abcde";
+            string s = "Z";
+            int n = 10;
 
-            ReturnMiddleChar.Solution solution = new ReturnMiddleChar.Solution();
-    
-            Console.WriteLine(solution.solution(s));
+            CaesarCipher.Solution solution = new CaesarCipher.Solution();
+
+            Console.WriteLine(solution.solution(s,n) + "//");
         }
     }
 }

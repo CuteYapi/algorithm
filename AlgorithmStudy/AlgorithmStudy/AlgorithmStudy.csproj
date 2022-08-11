@@ -46,8 +46,11 @@
   <ItemGroup>
     <Compile Include="AddStrings.cs" />
     <Compile Include="BestTimeToBuyAndSellStock.cs" />
+    <Compile Include="CaesarCipher.cs" />
+    <Compile Include="DivisorArray.cs" />
     <Compile Include="DotProduct.cs" />
     <Compile Include="EmptyNumberSum.cs" />
+    <Compile Include="FindKim.cs" />
     <Compile Include="FindRemainOne.cs" />
     <Compile Include="Grading.cs" />
     <Compile Include="HighLowestLotto.cs" />
@@ -67,6 +70,7 @@
     <Compile Include="PalindromeNumber.cs" />
     <Compile Include="PlusMinus.cs" />
     <Compile Include="PlusOne.cs" />
+    <Compile Include="PrimeNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReportResult.cs" />
@@ -78,11 +82,14 @@
     <Compile Include="ShuffleString.cs" />
     <Compile Include="SingleNumber.cs" />
     <Compile Include="SortedStudy.cs" />
+    <Compile Include="StringOrder.cs" />
+    <Compile Include="StringSUBAK.cs" />
     <Compile Include="TeemoAttacking.cs" />
     <Compile Include="Ternary.cs" />
     <Compile Include="TwoSum.cs" />
     <Compile Include="TwoSum2_InputArrayIsSorted.cs" />
     <Compile Include="TwoSum3.cs" />
+    <Compile Include="TwoSum4.cs" />
     <Compile Include="UglyNumber.cs" />
     <Compile Include="Y2016.cs" />
   </ItemGroup>

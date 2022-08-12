@@ -45,17 +45,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddStrings.cs" />
+    <Compile Include="ArrayAverage.cs" />
     <Compile Include="BestTimeToBuyAndSellStock.cs" />
+    <Compile Include="Budget.cs" />
     <Compile Include="CaesarCipher.cs" />
     <Compile Include="CheckIntegerRoot.cs" />
+    <Compile Include="Collatz.cs" />
     <Compile Include="DivisorArray.cs" />
     <Compile Include="DotProduct.cs" />
     <Compile Include="EmptyNumberSum.cs" />
     <Compile Include="FindKim.cs" />
     <Compile Include="FindRemainOne.cs" />
     <Compile Include="Grading.cs" />
+    <Compile Include="HarshadNumber.cs" />
     <Compile Include="HighLowestLotto.cs" />
     <Compile Include="K_thNumber.cs" />
+    <Compile Include="LostReserveSuit.cs" />
     <Compile Include="MakePrimeNumber.cs" />
     <Compile Include="MeasureCountAdd.cs" />
     <Compile Include="MinimumRectangle.cs" />
@@ -68,6 +73,7 @@
     <Compile Include="Implementstrstr.cs" />
     <Compile Include="IntersectionOfTwoArrays.cs" />
     <Compile Include="MergeTwoSortedLists.cs" />
+    <Compile Include="OddEven.cs" />
     <Compile Include="PalindromeNumber.cs" />
     <Compile Include="PlusMinus.cs" />
     <Compile Include="PlusOne.cs" />

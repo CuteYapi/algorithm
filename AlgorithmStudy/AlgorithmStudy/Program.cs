@@ -7,9 +7,9 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int n = 123;
+            int n = 16;
 
-            SumDigit.Solution solution = new SumDigit.Solution();
+            HarshadNumber.Solution solution = new HarshadNumber.Solution();
 
             Console.WriteLine(solution.solution(n));
         }

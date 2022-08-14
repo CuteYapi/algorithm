@@ -7,11 +7,12 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int n = 16;
+            int n = 2;
+            int m = 5;
 
-            HarshadNumber.Solution solution = new HarshadNumber.Solution();
+            EuclideanAlgorithm.Solution solution = new EuclideanAlgorithm.Solution();
 
-            Console.WriteLine(solution.solution(n));
+            Console.WriteLine(solution.solution(n, m));
         }
     }
 }

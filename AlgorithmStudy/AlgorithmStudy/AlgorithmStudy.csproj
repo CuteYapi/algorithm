@@ -54,10 +54,12 @@
     <Compile Include="DivisorArray.cs" />
     <Compile Include="DotProduct.cs" />
     <Compile Include="EmptyNumberSum.cs" />
+    <Compile Include="EuclideanAlgorithm.cs" />
     <Compile Include="FindKim.cs" />
     <Compile Include="FindRemainOne.cs" />
     <Compile Include="Grading.cs" />
     <Compile Include="HarshadNumber.cs" />
+    <Compile Include="HidePhoneNumber.cs" />
     <Compile Include="HighLowestLotto.cs" />
     <Compile Include="K_thNumber.cs" />
     <Compile Include="LostReserveSuit.cs" />
@@ -74,6 +76,7 @@
     <Compile Include="IntersectionOfTwoArrays.cs" />
     <Compile Include="MergeTwoSortedLists.cs" />
     <Compile Include="OddEven.cs" />
+    <Compile Include="OrderByDescending.cs" />
     <Compile Include="PalindromeNumber.cs" />
     <Compile Include="PlusMinus.cs" />
     <Compile Include="PlusOne.cs" />
@@ -92,11 +95,14 @@
     <Compile Include="SingleNumber.cs" />
     <Compile Include="SortedStudy.cs" />
     <Compile Include="StrangeString.cs" />
+    <Compile Include="StringManager.cs" />
     <Compile Include="StringOrder.cs" />
+    <Compile Include="StringSort.cs" />
     <Compile Include="StringSUBAK.cs" />
     <Compile Include="StringToInteger.cs" />
     <Compile Include="SumDigit.cs" />
     <Compile Include="SumMeasure.cs" />
+    <Compile Include="SumOfMatrix.cs" />
     <Compile Include="TeemoAttacking.cs" />
     <Compile Include="Ternary.cs" />
     <Compile Include="TwoSum.cs" />
@@ -104,6 +110,7 @@
     <Compile Include="TwoSum3.cs" />
     <Compile Include="TwoSum4.cs" />
     <Compile Include="UglyNumber.cs" />
+    <Compile Include="XSumX.cs" />
     <Compile Include="Y2016.cs" />
   </ItemGroup>
   <ItemGroup>

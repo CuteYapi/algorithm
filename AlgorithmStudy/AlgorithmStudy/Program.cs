@@ -7,12 +7,13 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int n = 2;
-            int m = 5;
+            string[] survey = { "AN", "CF", "MJ", "RT", "NA" };
+            int[] choices = { 5, 3, 2, 7, 5 };
 
-            EuclideanAlgorithm.Solution solution = new EuclideanAlgorithm.Solution();
 
-            Console.WriteLine(solution.solution(n, m));
+        PersonalityTest.Solution solution = new PersonalityTest.Solution();
+
+            Console.WriteLine(solution.solution(survey, choices));
         }
     }
 }

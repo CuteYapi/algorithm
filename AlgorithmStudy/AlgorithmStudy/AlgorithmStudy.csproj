@@ -78,6 +78,7 @@
     <Compile Include="OddEven.cs" />
     <Compile Include="OrderByDescending.cs" />
     <Compile Include="PalindromeNumber.cs" />
+    <Compile Include="PersonalityTest.cs" />
     <Compile Include="PlusMinus.cs" />
     <Compile Include="PlusOne.cs" />
     <Compile Include="PrimeNumber.cs" />

@@ -55,6 +55,7 @@
     <Compile Include="DotProduct.cs" />
     <Compile Include="EmptyNumberSum.cs" />
     <Compile Include="EuclideanAlgorithm.cs" />
+    <Compile Include="FibonacciDivision.cs" />
     <Compile Include="FindKim.cs" />
     <Compile Include="FindRemainOne.cs" />
     <Compile Include="Grading.cs" />
@@ -66,6 +67,7 @@
     <Compile Include="MakePrimeNumber.cs" />
     <Compile Include="MeasureCountAdd.cs" />
     <Compile Include="MinimumRectangle.cs" />
+    <Compile Include="MinMaxString.cs" />
     <Compile Include="Number1.cs" />
     <Compile Include="Number2.cs" />
     <Compile Include="NumberCharString.cs" />

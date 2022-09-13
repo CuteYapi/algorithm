@@ -7,13 +7,11 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            string[] survey = { "AN", "CF", "MJ", "RT", "NA" };
-            int[] choices = { 5, 3, 2, 7, 5 };
+            int s = 10000;
 
+            FibonacciDivision.Solution solution = new FibonacciDivision.Solution();
 
-        PersonalityTest.Solution solution = new PersonalityTest.Solution();
-
-            Console.WriteLine(solution.solution(survey, choices));
+            Console.WriteLine(solution.solution(s));
         }
     }
 }

@@ -7,11 +7,12 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int s = 10000;
+            int[] number = { 4,1,2,1 };
+            int target = 4;
 
-            FibonacciDivision.Solution solution = new FibonacciDivision.Solution();
+            TargetNumber.Solution solution = new TargetNumber.Solution();
 
-            Console.WriteLine(solution.solution(s));
+            Console.WriteLine(solution.solution(number, target));
         }
     }
 }

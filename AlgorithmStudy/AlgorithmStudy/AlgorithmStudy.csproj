@@ -59,20 +59,17 @@
     <Compile Include="FibonacciDivision.cs" />
     <Compile Include="FindKim.cs" />
     <Compile Include="FindRemainOne.cs" />
+    <Compile Include="FunctionDevelop.cs" />
     <Compile Include="Grading.cs" />
     <Compile Include="HarshadNumber.cs" />
     <Compile Include="HidePhoneNumber.cs" />
     <Compile Include="HighLowestLotto.cs" />
-    <Compile Include="Joystick.cs" />
     <Compile Include="K_thNumber.cs" />
     <Compile Include="LostReserveSuit.cs" />
-    <Compile Include="MakeBigNumber.cs" />
     <Compile Include="MakePrimeNumber.cs" />
     <Compile Include="MeasureCountAdd.cs" />
     <Compile Include="MinimumRectangle.cs" />
     <Compile Include="MinMaxString.cs" />
-    <Compile Include="Number1.cs" />
-    <Compile Include="Number2.cs" />
     <Compile Include="NumberCharString.cs" />
     <Compile Include="CountPrimes.cs" />
     <Compile Include="FibonacciNumber.cs" />
@@ -87,6 +84,7 @@
     <Compile Include="PlusMinus.cs" />
     <Compile Include="PlusOne.cs" />
     <Compile Include="PrimeNumber.cs" />
+    <Compile Include="Printer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReportResult.cs" />
@@ -100,6 +98,7 @@
     <Compile Include="ShuffleString.cs" />
     <Compile Include="SingleNumber.cs" />
     <Compile Include="SortedStudy.cs" />
+    <Compile Include="StockPrices.cs" />
     <Compile Include="StrangeString.cs" />
     <Compile Include="StringManager.cs" />
     <Compile Include="StringOrder.cs" />
@@ -112,6 +111,7 @@
     <Compile Include="TargetNumber.cs" />
     <Compile Include="TeemoAttacking.cs" />
     <Compile Include="Ternary.cs" />
+    <Compile Include="TruckOnBridge.cs" />
     <Compile Include="TwoSum.cs" />
     <Compile Include="TwoSum2_InputArrayIsSorted.cs" />
     <Compile Include="TwoSum3.cs" />

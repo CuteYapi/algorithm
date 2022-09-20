@@ -7,12 +7,17 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int[] number = { 4,1,2,1 };
-            int target = 4;
+            int[] value1 = { 93, 30, 55 };
+            int[] value2 = { 1, 30, 5 };
 
-            TargetNumber.Solution solution = new TargetNumber.Solution();
+            FunctionDevelop.Solution solution = new FunctionDevelop.Solution();
 
-            Console.WriteLine(solution.solution(number, target));
+            int i = 0;
+            while(solution.solution(value1, value2) != null)
+            {
+                Console.WriteLine(solution.solution(value1, value2)[i]);
+                i++;
+            }
         }
     }
 }

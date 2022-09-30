@@ -58,6 +58,7 @@
     <Compile Include="EuclideanAlgorithm.cs" />
     <Compile Include="FibonacciDivision.cs" />
     <Compile Include="FindKim.cs" />
+    <Compile Include="FindPrimeNumberWithK.cs" />
     <Compile Include="FindRemainOne.cs" />
     <Compile Include="FunctionDevelop.cs" />
     <Compile Include="Grading.cs" />
@@ -93,6 +94,7 @@
     <Compile Include="ReverseIntegerToArray.cs" />
     <Compile Include="ReverseStringII.cs" />
     <Compile Include="ReverseVowels.cs" />
+    <Compile Include="SameSumQueue.cs" />
     <Compile Include="SearchMinDestroy.cs" />
     <Compile Include="ShortMoney.cs" />
     <Compile Include="ShuffleString.cs" />

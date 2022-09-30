@@ -7,17 +7,12 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            int[] value1 = { 93, 30, 55 };
-            int[] value2 = { 1, 30, 5 };
+            var value1 = 91354987;
+            var Value2 = 3;
 
-            FunctionDevelop.Solution solution = new FunctionDevelop.Solution();
+            FindPrimeNumberWithK.Solution solution = new FindPrimeNumberWithK.Solution();
 
-            int i = 0;
-            while(solution.solution(value1, value2) != null)
-            {
-                Console.WriteLine(solution.solution(value1, value2)[i]);
-                i++;
-            }
+            Console.WriteLine(solution.solution(value1, Value2));
         }
     }
 }

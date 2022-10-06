@@ -46,12 +46,14 @@
   <ItemGroup>
     <Compile Include="AddStrings.cs" />
     <Compile Include="ArrayAverage.cs" />
+    <Compile Include="BargainSale.cs" />
     <Compile Include="BestTimeToBuyAndSellStock.cs" />
     <Compile Include="bracket.cs" />
     <Compile Include="Budget.cs" />
     <Compile Include="CaesarCipher.cs" />
     <Compile Include="CheckIntegerRoot.cs" />
     <Compile Include="Collatz.cs" />
+    <Compile Include="CutArray.cs" />
     <Compile Include="DivisorArray.cs" />
     <Compile Include="DotProduct.cs" />
     <Compile Include="EmptyNumberSum.cs" />
@@ -65,9 +67,12 @@
     <Compile Include="HarshadNumber.cs" />
     <Compile Include="HidePhoneNumber.cs" />
     <Compile Include="HighLowestLotto.cs" />
+    <Compile Include="JumpTeleport.cs" />
     <Compile Include="K_thNumber.cs" />
     <Compile Include="LostReserveSuit.cs" />
+    <Compile Include="MakeBigNumber.cs" />
     <Compile Include="MakePrimeNumber.cs" />
+    <Compile Include="MasterOfSinglePlay.cs" />
     <Compile Include="MeasureCountAdd.cs" />
     <Compile Include="MinimumRectangle.cs" />
     <Compile Include="MinMaxString.cs" />

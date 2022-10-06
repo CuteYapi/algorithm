@@ -7,12 +7,14 @@ namespace AlgorithmStudy
     {
         static void Main(string[] args)
         {
-            var value1 = 91354987;
-            var Value2 = 3;
+            string[] value1 = {"banana", "apple", "rice", "pork", "pot"};
+            int[] value2 = { 3, 2, 2, 2, 1 } ;
+            string[] value3 = { "apple", "banana", "rice", "apple", 
+                "pork", "banana", "pork", "rice", "pot", "banana", "apple", "banana","chicken", "apple" };
 
-            FindPrimeNumberWithK.Solution solution = new FindPrimeNumberWithK.Solution();
+            BargainSale.Solution solution = new BargainSale.Solution();
 
-            Console.WriteLine(solution.solution(value1, Value2));
+            Console.WriteLine(solution.solution(value1, value2, value3));
         }
     }
 }
